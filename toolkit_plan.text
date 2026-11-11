@@ -1,0 +1,19 @@
+Project Title: Personal Mini-Toolkit
+
+Tools Included:
+1. Number Guessing Game: A mini-game where the user guesses a secret number between 1 and 10 with hint feedback.
+2. Quick Shopping List: A list manager that allows users to view, add, and remove items dynamically.
+3. Countdown Timer: A timer that counts down from a user-specified positive number down to zero.
+
+Menu Text:
+=== PERSONAL MINI-TOOLKIT ===
+1. Number Guessing Game
+2. Quick Shopping List
+3. Countdown Timer
+4. Quit
+Enter your choice (1-4):
+
+Concepts Used:
+- Number Guessing Game: while loops, conditionals (if/elif/else), f-strings, counters.
+- Quick Shopping List: lists, .append(), .remove(), membership checks (in), while loops, conditionals.
+- Countdown Timer: while loops, numeric user input validation, decrementing variables.
